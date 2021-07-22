@@ -12,6 +12,7 @@ You can create folders as needed. Some folders, for example, *Tpc*, was created 
 - If you are authoring in DITA, try oXygen XML editor. The latest version is 23.1. https://www.oxygenxml.com/doc/versions/23.1/ug-editor/index.html 
 - If you are working in Markdown, you have various options, for example, notepad, visual studio code, atom, notepad++, github desktop, gitkraken, oxygen, or web editor embedded in Github, that is, here.
 - If you are working on image processing, Adobe Illustrator.
+- Currently, I'm testing the https://www.oxygenxml.com/oxygen-xml-web-author/app/oxygen.html. The oXygen XML Web Author.
 
 ### Source File Management Tool
 - In the current test, I use Gitkraken. See https://nio365.sharepoint.com/:p:/r/sites/IESDocumentation/Shared%20Documents/Dita%20Migration/_Git%20it%20done.pptx?d=w394f1262f2e245bbae27ca9f7a6361f0&csf=1&web=1&e=qC2mEy 
